@@ -1,0 +1,2 @@
+namespace JB_InternshipTask_2.Expressions;
+public interface IExpression;
